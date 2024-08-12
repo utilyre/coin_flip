@@ -19,6 +19,8 @@ fn main() {
         }
     }
 
+    println!("total = {}", NUM_TRIES);
+    println!();
     println!(
         "{:^10} | {:^10} | {:^10} | {:^10}",
         "num", "count", "expected", "off"
