@@ -1,5 +1,5 @@
 [package]
-name = "coin_statistics"
+name = "coin_flip"
 version = "0.1.0"
 edition = "2021"
 
